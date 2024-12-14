@@ -11,7 +11,7 @@
 I'm sure anything more will be too much for me keep track of effectively.
 ==============================
 Lily Sage.
-main.py
+SageLilyFinalProject.py
 Final project: Dice Formula parser, statistical analyst, and mathematically random dice roller."""
 
 """Import Libraries"""
