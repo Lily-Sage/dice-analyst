@@ -915,7 +915,7 @@ class CORE_WINDOW(ef):
         def m_popup_task():
             while True:
                 # Chill for anywhere between 3 minutes and several hours.
-                VInterval = ra.randint(18, 108)
+                VInterval = ra.randint(180, 10800)
                 th.Event().wait(VInterval)
 
                 LImagePaths = ['bigstomp.png', 'pspspsps.png', 'thereisno.png']
